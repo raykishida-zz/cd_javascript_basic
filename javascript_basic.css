@@ -1,0 +1,23 @@
+
+#main_content{
+    display: inline-block;
+    background-color:black;
+    list-style-type: circle;
+    border-radius: 15px;
+}
+p {
+    color:lightgrey;
+    display: inline;
+    padding: 5px;
+}
+h1 {
+    color:lightgrey;
+}
+
+span {
+    color:blueviolet
+}
+
+li{
+    color:lightgrey;
+}
